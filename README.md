@@ -1,10 +1,4 @@
 ### Hi there 👋, i'm Zakaria Tabati
-
-<!--
-**zakariatabati/zakariatabati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Studying  on ENSA
 - 🌱 I’m currently learning about machine learning and Cyber Security 
 - 👯 I’m looking to collaborate on Machine Learning repositories or python scripts
