@@ -10,3 +10,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakariatabati&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariatabati)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://app.daily.dev/zaki"><img src="https://api.daily.dev/devcards/ef59e43daa4c43c29ec6f9b1e2321836.png?r=ykd" width="400" alt="Zakaria Tabati's Dev Card"/></a>
