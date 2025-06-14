@@ -22,11 +22,10 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently Studying **Computer science**  in **ENSA**
+- 🔭 I’m currently Studying **Computer Science Engineering**  in **ENSA**
 
-- 🌱 I’m currently learning about **machine learning  and problem solving**
   
-- 👯 I’m looking to collaborate on Machine Learning repositories or python scripts
+- 👯 I’m looking to collaborate on Machine Learning repositories or anythings about CS
 
 - 💬 Ask me about **evrything i Know**
 
@@ -78,7 +77,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,github,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,php,js,laravel,git&perline=14" />
   </a>
 </p>
 
