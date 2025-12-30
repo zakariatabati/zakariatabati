@@ -111,7 +111,7 @@ Implementation of popular sorting algorithms with complexity analysis in C++ and
 
 Complete gaming competition management system with event registration, team management, real-time score tracking, and tournament brackets. Built with React frontend, FastAPI backend, and MySQL database.
 
-� **Collaborated with:** [@Tifawtziam](https://github.com/Tifawtziam)  
+👥 **Collaborated with:** [@Tifawtziam](https://github.com/Tifawtziam)  
  *Private Repository*
 
 </td>
