@@ -187,6 +187,22 @@ What Actually Happens When You Save an Object in JPA?.
 
 🔗 [Read Article →](https://medium.com/@zakariatabati/the-secret-life-of-a-jsf-request-316be5e09297)
 
+**Weekly CP Series: Simple Techniques That Helped Me**  
+![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)
+
+Weekly CP Series: Simple Techniques That Helped Me #1.
+
+🔗 [Read Article →](https://medium.com/@zakariatabati/weekly-cp-series-simple-techniques-that-helped-me-1-f05f2e328d25)
+
+Weekly CP Series: Simple Techniques That Helped Me #2.
+
+🔗 [Read Article →](https://medium.com/@zakariatabati/weekly-cp-series-simple-techniques-that-helped-me-2-6d37687852f4)
+
+Weekly CP Series: Simple Techniques That Helped Me #3.
+
+🔗 [Read Article →](https://medium.com/@zakariatabati/weekly-cp-series-simple-techniques-that-helped-me-3-251a26ff036a)
+
+
 </td>
 <td width="50%" valign="top">
 
