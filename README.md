@@ -176,6 +176,17 @@ Deep dive into Linear Regression fundamentals, mathematical foundations, and pra
 
 🔗 [Read Article →](https://medium.com/@zakariatabati/linear-regression-the-simplest-learning-algorithm-1aef76ce9c2e)
 
+**Java Backend Topics**  
+![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)
+
+The Secret Life of a JSF Request.
+
+🔗 [Read Article →](https://medium.com/@zakariatabati/linear-regression-the-simplest-learning-algorithm-1aef76ce9c2e)
+
+What Actually Happens When You Save an Object in JPA?.
+
+🔗 [Read Article →](https://medium.com/@zakariatabati/the-secret-life-of-a-jsf-request-316be5e09297)
+
 </td>
 <td width="50%" valign="top">
 
@@ -191,6 +202,7 @@ Creating technical content in Moroccan Darija to make programming concepts acces
 🔗 [Queue ](https://www.linkedin.com/posts/zakariatabati_%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D9%88-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-activity-7218722072926056449-C6Ik)  
 🔗 [Stack ](https://www.linkedin.com/posts/zakariatabati_%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D9%88-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-activity-7192861519620046848-GOn6)  
 🔗 [Linked List](https://www.linkedin.com/posts/zakariatabati_%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D9%88-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-activity-7189254222113124352-ovFp)
+
 
 </td>
 </tr>
