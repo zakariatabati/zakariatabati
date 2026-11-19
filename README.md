@@ -1,44 +1,72 @@
 # 👋 Hey, I'm Zakaria Tabati
 
 <div align="center">
-  
-  [![Computer Science](https://img.shields.io/badge/Computer_Science-Engineering-blue?style=flat-square)](https://github.com/zakariatabati)
-  [![Backend Developer](https://img.shields.io/badge/Backend-Developer-success?style=flat-square)](https://github.com/zakariatabati)
+
+  [![Computer Science](https://img.shields.io/badge/Computer_Science-Engineering_Student-blue?style=flat-square)](https://github.com/zakariatabati)
+  [![Data Science](https://img.shields.io/badge/Data_Science-Engineering_Student-purple?style=flat-square)](https://github.com/zakariatabati)
   [![ML Enthusiast](https://img.shields.io/badge/ML-Enthusiast-orange?style=flat-square)](https://github.com/zakariatabati)
+    [![Backend Developer](https://img.shields.io/badge/Backend-Developer-success?style=flat-square)](https://github.com/zakariatabati)
   [![Competitive Programmer](https://img.shields.io/badge/Competitive-Programmer-critical?style=flat-square)](https://github.com/zakariatabati)
 
 </div>
 
-> *"In the symphony of logic and creativity, every algorithm tells a story. I don't just write code . I architect solutions, solve puzzles of complexity, and transform abstract ideas into tangible reality. The journey from confusion to clarity is where true mastery lives."*
+> *"The Only Valid MEASUREMENT Of Code Quality : WTF/MINUTE (From The clean code book by Robert C. Martin)"*
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Backend & Databases
+### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-4CAF50?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Tools & Core Concepts
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Data Science & Machine Learning
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-8E24AA?style=for-the-badge)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Core Concepts
 ![DSA](https://img.shields.io/badge/Data_Structures-Algorithms-9C27B0?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System-Design-FF6F00?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object--Oriented-Programming-3F51B5?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Fundamentals-607D8B?style=for-the-badge)
 
 </div>
 
----
 
 ##  Featured Projects & Repositories
 
@@ -46,56 +74,68 @@
 <tr>
 <td width="50%" valign="top">
 
-###  Machine Learning from Scratch
-**Implementation of ML algorithms without frameworks**
+### 💸 OkaneTransfer
+**Money transfer management platform**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Jupyter notebooks covering ML algorithms with mathematical foundations and practical implementations on real datasets.
+A secure money transfer platform with a layered Spring MVC/Hibernate backend and an Angular frontend, featuring JWT authentication, role-based access control, PostgreSQL persistence and a Dockerized GitHub Actions CI pipeline.
 
-🔗 [View Repository →](https://github.com/zakariatabati/Machine-Learning-from-Scratch-by-a-CS-Student)
+🔗 [View Repository →](https://github.com/zakariatabati/okane-transfer)
 
 </td>
 <td width="50%" valign="top">
 
-###  Fraud Detection API
-**Real-time fraud detection system**
+### 🏢 Smart Enterprise Operations Platform
+**HR & project management suite with an AI service**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=flat-square&logo=mysql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-REST API for detecting fraudulent transactions using machine learning models with FastAPI backend.
+A full-stack enterprise platform (Spring Boot, Angular, JWT-based RBAC) for managing users, projects, tasks and leave, extended by a FastAPI ML microservice that scores productivity, predicts project risk and recommends resources.
 
-🔗 [View Repository →](https://github.com/zakariatabati/Fraud_Detection_API)
+🔗 [View Repository →](https://github.com/zakariatabati/Smart-Operations-Platform)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  Data Structures Implementation
-**DSA from scratch in Python**
+### ₿ SatoshiVault
+**Bitcoin wallet on Testnet**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-9C27B0?style=flat-square)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-Complete implementation of fundamental data structures including trees, graphs, heaps, and hash tables.
+A Bitcoin Testnet wallet that fetches balances and transaction history, builds and signs UTXO-based transactions with fee estimation, and broadcasts them to the network through the BlockCypher API.
 
-🔗 [View Repository →](https://github.com/zakariatabati/Data_Structures)
+🔗 [View Repository →](https://github.com/zakariatabati/SatoshiVault)
 
 </td>
 <td width="50%" valign="top">
 
-###  Sorting Algorithms
-**Classic sorting implementations**
+### 🌳 Random Forest Optimization with Genetic Algorithms
+**Automated hyperparameter tuning**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
 
-Implementation of popular sorting algorithms with complexity analysis in C++ and Python.
+A genetic algorithm that automatically tunes Random Forest hyperparameters, reducing the model's RMSE from 2.61 to 1.29.
 
-🔗 [View Repository →](https://github.com/zakariatabati/Sorting_algo)
+🔗 [View Repository →](https://github.com/zakariatabati/RandomForest-Genetic-Algorithm)
 
 </td>
 </tr>
@@ -111,7 +151,6 @@ Implementation of popular sorting algorithms with complexity analysis in C++ and
 
 Complete gaming competition management system with event registration, team management, real-time score tracking, and tournament brackets. Built with React frontend, FastAPI backend, and MySQL database.
 
-👥 **Collaborated with:** [@Tifawtziam](https://github.com/Tifawtziam)  
  *Private Repository*
 
 </td>
@@ -142,11 +181,41 @@ Contributed improvements to RSA & AES encryption system. Enhanced backend logic 
 
 Complete absence management system for educational institutions with student tracking, attendance reports, and automated notifications. Built with PHP backend and HTML/CSS frontend.
 
-👥 **Collaborated with:** [@MohamedZarrou](https://github.com/MohamedZarrou)  
 🔗 [View Repository →](https://github.com/zakariatabati/absence-management)
 
 </td>
 <td width="50%" valign="top">
+
+### 🛡️ Fraud Transaction Detection API
+**ML-powered fraud prediction service**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+A FastAPI service backed by a Random Forest model (0.96 recall) that returns a fraud prediction and probability for each transaction, with a full preprocessing pipeline, Pydantic validation, Pytest tests and Swagger/ReDoc docs.
+
+🔗 [View Repository →](https://github.com/zakariatabati/Fraud_Detection_API)
+
+</td>
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🕸️ Student Social Network Graph Analytics
+**Graph data science pipeline on Neo4j**
+
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+A graph data science pipeline on a student social network that compares community detection and recommendation methods, exposed through a Dockerized FastAPI REST API documented with OpenAPI.
+
+🔗 [View Repository →](https://github.com/zakariatabati/Student-Network-Graph-Analytics)
 
 </td>
 </tr>
@@ -154,11 +223,11 @@ Complete absence management system for educational institutions with student tra
 
 ---
 
-##  Technical Writing & Content
+## ✍️ Technical Writing & Content
 
 <div align="center">
 
-###  Sharing knowledge through articles and educational content
+### Sharing knowledge through articles and educational content
 
 </div>
 
@@ -166,59 +235,27 @@ Complete absence management system for educational institutions with student tra
 <tr>
 <td width="50%" valign="top">
 
-###  Medium Articles
+### 📝 Medium
 
-**Linear Regression: The Simplest Learning Algorithm**  
-![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-Tutorial-orange?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/ML-Tutorials-orange?style=flat-square)
+![Java](https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square)
+![Competitive Programming](https://img.shields.io/badge/Competitive-Programming-critical?style=flat-square)
 
-Deep dive into Linear Regression fundamentals, mathematical foundations, and practical implementation.
+I write technical articles on machine learning fundamentals, Java backend internals (JSF, JPA) and competitive programming techniques.
 
-🔗 [Read Article →](https://medium.com/@zakariatabati/linear-regression-the-simplest-learning-algorithm-1aef76ce9c2e)
-
-**Java Backend Topics**  
-![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)
-
-The Secret Life of a JSF Request.
-
-🔗 [Read Article →](https://medium.com/@zakariatabati/linear-regression-the-simplest-learning-algorithm-1aef76ce9c2e)
-
-What Actually Happens When You Save an Object in JPA?.
-
-🔗 [Read Article →](https://medium.com/@zakariatabati/the-secret-life-of-a-jsf-request-316be5e09297)
-
-**Weekly CP Series: Simple Techniques That Helped Me**  
-![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)
-
-Weekly CP Series: Simple Techniques That Helped Me #1.
-
-🔗 [Read Article →](https://medium.com/@zakariatabati/weekly-cp-series-simple-techniques-that-helped-me-1-f05f2e328d25)
-
-Weekly CP Series: Simple Techniques That Helped Me #2.
-
-🔗 [Read Article →](https://medium.com/@zakariatabati/weekly-cp-series-simple-techniques-that-helped-me-2-6d37687852f4)
-
-Weekly CP Series: Simple Techniques That Helped Me #3.
-
-🔗 [Read Article →](https://medium.com/@zakariatabati/weekly-cp-series-simple-techniques-that-helped-me-3-251a26ff036a)
-
+[![Medium](https://img.shields.io/badge/Read_my_articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zakariatabati)
 
 </td>
 <td width="50%" valign="top">
 
-### 🇲🇦 LinkedIn Content (Darija)
+### 🇲🇦 LinkedIn (Darija)
 
-**Educational posts in Moroccan Arabic**  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 ![Community](https://img.shields.io/badge/Community-Education-blue?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data_Structures-Algorithms-9C27B0?style=flat-square)
 
-Creating technical content in Moroccan Darija to make programming concepts accessible to Arabic-speaking students.
+I share educational posts in Moroccan Darija to make programming concepts and data structures accessible to Arabic-speaking students.
 
-🔗 [Your constructor is private! doesn't that seem strange](https://www.linkedin.com/posts/zakariatabati_php-programming-softwaredevelopment-activity-7316535716249763841-34vk)  
-🔗 [Queue ](https://www.linkedin.com/posts/zakariatabati_%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D9%88-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-activity-7218722072926056449-C6Ik)  
-🔗 [Stack ](https://www.linkedin.com/posts/zakariatabati_%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D9%88-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-activity-7192861519620046848-GOn6)  
-🔗 [Linked List](https://www.linkedin.com/posts/zakariatabati_%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D9%88-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-activity-7189254222113124352-ovFp)
-
+[![LinkedIn](https://img.shields.io/badge/Follow_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariatabati)
 
 </td>
 </tr>
@@ -233,88 +270,66 @@ Creating technical content in Moroccan Darija to make programming concepts acces
 <a href="https://codeforces.com/profile/zaki-66">
   <img src="https://img.shields.io/badge/Codeforces-zaki--66-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
 </a>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-YOUR__LEETCODE__USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
 
-</div>
+<br/><br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+🎖️ **Former Head of the Competitive Programming Cell** at the ENSA Marrakech CS Club (Oct 2025 – June 2026), where I mentored students and organized biweekly contests.
 
-###  Profile & Activity
--  Active problem solver on **Codeforces**
--  Focus on **algorithmic thinking** and optimization
--  Continuous training in **DSA**, **Graph Theory**, and **DP**
--  **Head of Competitive Programming** at ENSA Marrakech CS Club
--  Design problem sets and organize coding contests
--  Mentor students in competitive programming
-
-</td>
-<td width="40%" valign="top">
-
-###  Related Repositories
-
-**Problem Solving**  
-![Stars](https://img.shields.io/github/stars/zakariatabati/Problem_solving-?style=social)  
-[🔗 View Code](https://github.com/zakariatabati/Problem_solving-)
-
-**Data Structures**  
-![Stars](https://img.shields.io/github/stars/zakariatabati/Data_Structures?style=social)  
-[🔗 View Code](https://github.com/zakariatabati/Data_Structures)
-
-**Sorting Algorithms**  
-![Stars](https://img.shields.io/github/stars/zakariatabati/Sorting_algo?style=social)  
-[🔗 View Code](https://github.com/zakariatabati/Sorting_algo)
-
-**Matrix Library**  
-![Stars](https://img.shields.io/github/stars/zakariatabati/Matrice_Library?style=social)  
-[🔗 View Code](https://github.com/zakariatabati/Matrice_Library)
-
-</td>
-</tr>
-</table>
-
----
-
-##  GitHub Activity & Stats
-
-<div align="center">
-
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zakariatabati&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=zakariatabati&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zakariatabati&layout=compact&theme=tokyonight)
 </div>
 
 ---
 
-##  Currently Focused On
+## 📊 GitHub Activity & Stats
 
 <div align="center">
 
-```
-Deep diving into System Design & Architecture
-Building scalable backend systems
-Strengthening competitive programming skills  
-Creating production-grade projects
-```
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=zakariatabati&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zakariatabati&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=zakariatabati&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
+---
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+🎓 Final-year engineering student seeking a **PFE (end-of-study internship)** in data / machine learning or backend engineering<br/>
+⚙️ Deep diving into **System Design & Architecture** and building **scalable backend systems**<br/>
+🤖 Exploring **MLOps**: taking ML models from notebooks to production<br/>
+🏆 Strengthening my **competitive programming** skills<br/>
+🚀 Creating **production-grade projects**
+
+</div>
 
 ---
 
-##  Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
+
+**Professional**
 
 [![Email](https://img.shields.io/badge/Email-zakariatabati55%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakariatabati55@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria%20Tabati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariatabati)
-[![Twitter](https://img.shields.io/badge/Twitter-zakatabati-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zakatabati)
-[![Codeforces](https://img.shields.io/badge/Codeforces-zaki--66-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/zaki-66)
-[![GitHub](https://img.shields.io/badge/GitHub-zakariatabati-181717?style=for-the-badge&logo=github)](https://github.com/zakariatabati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria%20Tabati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariatabati)
 
+**Coding & Data**
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-zaki--66-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/zaki-66)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__LEETCODE__USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-YOUR__KAGGLE__USERNAME-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+
+**Writing & Social**
+
+[![Medium](https://img.shields.io/badge/Medium-@zakariatabati-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zakariatabati)
+[![X](https://img.shields.io/badge/X-zakatabati-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zakatabati)
+
+</div>
 </div>
 
 ---
