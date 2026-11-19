@@ -135,7 +135,7 @@ A Bitcoin Testnet wallet that fetches balances and transaction history, builds a
 
 A genetic algorithm that automatically tunes Random Forest hyperparameters, reducing the model's RMSE from 2.61 to 1.29.
 
-🔗 [View Repository →](https://github.com/zakariatabati/RandomForest-Genetic-Algorithm)
+🔗 [View Repository →](https://github.com/zakariatabati/taxi-profit-maximizer)
 
 </td>
 </tr>
@@ -215,7 +215,7 @@ A FastAPI service backed by a Random Forest model (0.96 recall) that returns a f
 
 A graph data science pipeline on a student social network that compares community detection and recommendation methods, exposed through a Dockerized FastAPI REST API documented with OpenAPI.
 
-🔗 [View Repository →](https://github.com/zakariatabati/Student-Network-Graph-Analytics)
+🔗 [View Repository →](https://github.com/zakariatabati/graph-data-science-student-network)
 
 </td>
 </tr>
@@ -270,8 +270,8 @@ I share educational posts in Moroccan Darija to make programming concepts and da
 <a href="https://codeforces.com/profile/zaki-66">
   <img src="https://img.shields.io/badge/Codeforces-zaki--66-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
 </a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://img.shields.io/badge/LeetCode-YOUR__LEETCODE__USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+<a href="https://leetcode.com/u/zaki-66/">
+  <img src="https://img.shields.io/badge/LeetCode-ZakariaTabati-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
 </a>
 
 <br/><br/>
@@ -321,8 +321,8 @@ I share educational posts in Moroccan Darija to make programming concepts and da
 **Coding & Data**
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-zaki--66-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/zaki-66)
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__LEETCODE__USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-YOUR__KAGGLE__USERNAME-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-zakariatabati-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zaki-66/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-ZakariaTabati-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zakariatabatiinv)
 
 **Writing & Social**
 
